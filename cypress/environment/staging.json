@@ -1,0 +1,10 @@
+{
+  "cred": {
+    "userName": "ckctesting@yopmail.com",
+    "password": "Testing@123"
+  },
+  "url": {
+    "loginPageUrl": "https://rahulshettyacademy.com/client/#/auth/login",
+    "shopHomePageUrl": "https://rahulshettyacademy.com/client/#/dashboard/dash"
+  }
+}

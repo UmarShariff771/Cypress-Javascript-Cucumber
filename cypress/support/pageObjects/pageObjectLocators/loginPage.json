@@ -1,0 +1,5 @@
+{
+    "email_Input_field": "#userEmail",
+    "password_Input_field": "#userPassword",
+    "login_button": "#login"
+}
